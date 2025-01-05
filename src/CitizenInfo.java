@@ -25,14 +25,15 @@ public class CitizenInfo {
         }
 
         //display voters name and age>=18
+        int count = 0;
         for (int i = 0; i < 10; i++) {
-            int count = 0;
+
             if (ages[i] >= 18) {
                 count++;
                 System.out.println("Name: " + names[i] + " and Age: " + ages[i]);
             }
-            System.out.println("Total no of Voters: " + count);
         }
+        System.out.println("Total no of Voters: " + count);
 
     }
 }

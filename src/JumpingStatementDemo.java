@@ -26,6 +26,4 @@ public class JumpingStatementDemo {
     public static int getNumber(){
         return 1;
     }
-
-
 }

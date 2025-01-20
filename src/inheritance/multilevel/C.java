@@ -1,4 +1,4 @@
-package inheritance.simple.multilevel;
+package inheritance.multilevel;
 
 public class C extends P{
     public void c(){

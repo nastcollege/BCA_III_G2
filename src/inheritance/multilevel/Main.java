@@ -1,4 +1,4 @@
-package inheritance.simple.multilevel;
+package inheritance.multilevel;
 
 public class Main {
     public static void main(String[] args) {
